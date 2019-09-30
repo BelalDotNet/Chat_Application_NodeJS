@@ -1,0 +1,17 @@
+{
+  "name": "chat_service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0",
+    "socket.io-file": "^2.0.3",
+    "socketio-file-upload": "^0.7.0"
+  }
+}
